@@ -17,4 +17,4 @@ To exit the shell, use: `exit`
 
 - From there, the rest of the prompt will guide you the rest of the way. 
 
-- In the CLI window where you've activated the Postgres Database, you can type `SELECT * FROM bookmark` to see all of the bookmarks that have been added. 
+- In the CLI window where you've activated the Postgres Database, you can type `SELECT * FROM bookmark;` to see all of the bookmarks that have been added. 
