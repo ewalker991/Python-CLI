@@ -3,7 +3,7 @@
 
 ### Installation
 1. Fork and clone this repository
-2. In the directory for this repo, in your commande line, use: `pipenv install`
+2. In the directory for this repo, in your command line, use: `pipenv install`
 3. Then, use: `psql`
 4. Then, use: `CREATE DATABASE bookmarks;`
 5. Then, use: `\c bookmarks`
