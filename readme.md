@@ -7,7 +7,7 @@
 3. Then, use: `psql`
 4. Then, use: `CREATE DATABASE bookmarks;`
 5. Then, use: `\c bookmarks`
-6. In a new CLI tab/window, use: `pipenv shell`
+6. In a new CLI tab/window, direct to the repo directory again and use: `pipenv shell`
 7. Lastly, use: `python main.py`
 
 To exit the shell, use: `exit`
